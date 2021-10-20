@@ -150,7 +150,7 @@ J'ai tenté de me connecter à la base de données avec un script en python, mai
 - Il faut l'attaquer pour se latéraliser dessus
 - Il faut s'en servir
 
-Rapplez-vous, le but finale de ce challenge est de trouver le hash NTLM d'un utilisateur, et ce format de hash est utilisé sous windows, or ici, toutes les machines tournent sous linux. 
+Rapplez-vous, le but final de ce challenge est de trouver le hash NTLM d'un utilisateur, et ce format de hash est utilisé sous windows, or ici, toutes les machines tournent sous linux. 
 
 J'ai donc décidé de reregarder l'application python, et j'ai remarqué ceci dans un des fichiers de configuration :
 
